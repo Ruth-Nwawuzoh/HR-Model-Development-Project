@@ -13,7 +13,7 @@ This repository contains data, code, and outputs for my **Business Analytics cou
 - `HR_Model_Development.ipynb` – Jupyter Notebook with full implementation for Module 4  
 - `output2/` – Directory containing saved plots and classification reports
 - `HR_Attrition_Cleaned.csv` – Final cleaned and transformed dataset ready for modeling.
-- `README.md` – roject summary and execution guide (this file)
+- `README.md` – Project summary and execution guide (this file)
 
 ---
 
